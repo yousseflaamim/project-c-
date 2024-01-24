@@ -1,0 +1,10 @@
+The code is for a library management program that includes registration, login, and book management processes
+When you run the AD program, it opens the SQLite database or creates a new database if it does not exist.
+You also create two tables in the database: a table to store information about books and a table to store information about users and
+Registers a new user in the database.
+SQL is used to enter the username and password into the Users table
+It verifies the user's identity when logging in.
+SQL is used to validate the username and password
+And he rises
+Adds a new book to the books table in the database.
+It executes SQL to insert book data into the database, delete a book, or modify it
